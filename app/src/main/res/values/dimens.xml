@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_width" />
+    <dimen name="logo_height" />
+    <dimen name="margin_top_logo" />
+    <dimen name="text_size_head" />
+    <dimen name="padding_button" />
+    <dimen name="width_editText" />
+</resources>
